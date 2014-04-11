@@ -1,0 +1,35 @@
+Line 33: Class ComctlLib.TreeView of control tvTreeView was not a loaded control class.
+Line 49: Class ComctlLib.ListView of control lvListView was not a loaded control class.
+Line 105: Class ComctlLib.StatusBar of control sbStatusBar was not a loaded control class.
+Line 139: Class MSComDlg.CommonDialog of control dlgCommonDialog was not a loaded control class.
+Line 153: Class ComctlLib.ImageList of control imlIcons was not a loaded control class.
+Line 40: The property name _ExtentX in tvTreeView is invalid.
+Line 41: The property name _ExtentY in tvTreeView is invalid.
+Line 42: The property name _Version in tvTreeView is invalid.
+Line 43: The property name HideSelection in tvTreeView is invalid.
+Line 44: The property name LabelEdit in tvTreeView is invalid.
+Line 45: The property name LineStyle in tvTreeView is invalid.
+Line 46: The property name Style in tvTreeView is invalid.
+Line 56: The property name _ExtentX in lvListView is invalid.
+Line 57: The property name _ExtentY in lvListView is invalid.
+Line 58: The property name View in lvListView is invalid.
+Line 59: The property name LabelEdit in lvListView is invalid.
+Line 60: The property name LabelWrap in lvListView is invalid.
+Line 61: The property name HideSelection in lvListView is invalid.
+Line 62: The property name _Version in lvListView is invalid.
+Line 67: The property name NumItems in lvListView is invalid.
+Line 112: The property name _ExtentX in sbStatusBar is invalid.
+Line 113: The property name _ExtentY in sbStatusBar is invalid.
+Line 114: The property name SimpleText in sbStatusBar is invalid.
+Line 115: The property name _Version in sbStatusBar is invalid.
+Line 137: The property name Panels in sbStatusBar is invalid.
+Line 142: The property name _ExtentX in dlgCommonDialog is invalid.
+Line 143: The property name _ExtentY in dlgCommonDialog is invalid.
+Line 144: The property name _Version in dlgCommonDialog is invalid.
+Line 156: The property name _ExtentX in imlIcons is invalid.
+Line 157: The property name _ExtentY in imlIcons is invalid.
+Line 159: The property name ImageWidth in imlIcons is invalid.
+Line 160: The property name ImageHeight in imlIcons is invalid.
+Line 161: The property name MaskColor in imlIcons is invalid.
+Line 162: The property name _Version in imlIcons is invalid.
+Line 209: The property name Images in imlIcons is invalid.

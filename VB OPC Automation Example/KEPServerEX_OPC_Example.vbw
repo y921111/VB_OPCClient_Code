@@ -1,0 +1,15 @@
+Module1 = 1, 31, 667, 549, 
+frmMain = 106, 101, 779, 579, , 91, 78, 623, 570, C
+frmSplash = 82, 76, 634, 472, , 120, 126, 665, 433, C
+frmAbout = 66, 66, 659, 567, , 102, 109, 649, 424, C
+OPCServerClass = 54, 13, 706, 612, 
+frmSelectOPCServer = 100, 85, 640, 546, , 164, 98, 593, 451, C
+frmOPCServerProperties = 83, 83, 647, 544, , 125, 96, 552, 454, C
+frmAddGroup = 127, 55, 613, 524, C, 181, 122, 482, 368, C
+frmOPCGroupProperties = 73, 67, 653, 528, , 185, 126, 549, 360, C
+OPCGroupClass = 16, 84, 707, 614, 
+frmAddItem = 36, 35, 685, 534, , 61, 77, 675, 477, C
+OPCItemClass = 28, 73, 709, 534, 
+frmItemUpdateInterval = 102, 75, 616, 536, , 234, 153, 505, 323, C
+frmWriteItem = 105, 66, 650, 527, , 118, 80, 606, 366, C
+OPCBrowserClass = 58, 125, 695, 573, 

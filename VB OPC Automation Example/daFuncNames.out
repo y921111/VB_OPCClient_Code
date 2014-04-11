@@ -1,0 +1,28 @@
+
+Dump of file kepopcdaauto.dll
+
+File Type: DLL
+
+  Section contains the following exports for kepopcdaauto.DLL
+
+           0 characteristics
+    3D626371 time date stamp Tue Aug 20 23:42:41 2002
+        0.00 version
+           1 ordinal base
+           4 number of functions
+           4 number of names
+
+    ordinal hint RVA      name
+
+          1    0 0000105F DllCanUnloadNow
+          2    1 0000106B DllGetClassObject
+          3    2 00001084 DllRegisterServer
+          4    3 00001093 DllUnregisterServer
+
+  Summary
+
+        4000 .data
+        3000 .rdata
+        2000 .reloc
+        6000 .rsrc
+        F000 .text
